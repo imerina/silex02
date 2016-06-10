@@ -1,1 +1,1 @@
-Projet correspondant à un tuto SILEX de'Openclassroom
+Projet correspondant à un tuto SILEX d'Openclassroom
